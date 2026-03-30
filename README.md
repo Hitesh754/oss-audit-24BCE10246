@@ -82,7 +82,7 @@ oss-audit-24BCE10246/
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/[your-username]/oss-audit-[rollnumber].git
+git clone https://github.com/Hitesh754/oss-audit-24BCE10246.git
 cd oss-audit-24BCE10246
 ```
 
